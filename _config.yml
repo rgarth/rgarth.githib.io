@@ -12,6 +12,8 @@ url:                 https://rgarth.github.io
 baseurl:             ''
 paginate:            5
 gems:                [jekyll-paginate]
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars1.githubusercontent.com/u/3967805?s=400&u=e6888bdec4641d904582a7caa1ad34de1a4c2ac0&v=4
 
 # About/contact
 author:
