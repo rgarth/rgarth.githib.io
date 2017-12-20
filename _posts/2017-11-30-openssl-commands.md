@@ -18,7 +18,7 @@ openssl rsa -in server.key -check
 
 **Check a remote cert**
 ```shell
-$ echo | penssl s_client -servername www.example.com \
+$ echo | openssl s_client -servername www.example.com \
  -connect www.example.com:443 2>/dev/null | \
  openssl x509 -text```
 ```
