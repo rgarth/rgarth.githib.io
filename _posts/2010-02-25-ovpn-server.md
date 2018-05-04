@@ -145,5 +145,3 @@ Edit the file /etc/openvpn/openvpn.conf and add the following (the comments are 
 Restart OpenVPN: ```# /etc/init.d/openvpn restart```
 
 The server is complete, still need to setup a client though.
-
-
