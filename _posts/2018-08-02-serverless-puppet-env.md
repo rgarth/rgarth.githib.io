@@ -5,7 +5,7 @@ title: Using vagrant to build a serverless puppet host for testing
 I spent a little bit of time setting up a repo which will build a serverless
 EL7 puppet test box.
 
-[https://github.com/rgarth/puppetlab](https://gitthub.com/rgarth/puppetlab)
+[https://github.com/rgarth/puppetlab](https://github.com/rgarth/puppetlab)
 
 It's fairly straight forward.
 - Vagrant pulls latest Centos7
